@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data and processed files
+data/
+processed/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
